@@ -1,0 +1,4 @@
+153 Busy
+281 Free
+3711 Busy
+905 Reserved
